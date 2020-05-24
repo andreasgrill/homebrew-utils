@@ -2,7 +2,7 @@ class AutoSelfcontrol < Formula
   desc "Small utility to schedule start and stop times of SelfControl"
   homepage "https://github.com/andreasgrill/auto-selfcontrol"
   url "https://github.com/andreasgrill/auto-selfcontrol/archive/2.0.1.tar.gz"
-  sha256 "a9599a2cd89c3e9e0fb8c4a00e8e5ca974e697771d16fc6b0d10add9eba4c31a"
+  sha256 "d5dfd35ae948bccfbbb95dbec18884d8601fd427bc3d1490dec2fc6281dd2709"
   head "https://github.com/andreasgrill/auto-selfcontrol.git"
 
   def install
